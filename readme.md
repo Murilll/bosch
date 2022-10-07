@@ -1,8 +1,3 @@
-print("asfdsakfja")
-dasfa
-sdfdsa
-alterei 
+primeira linha do arquivo
 
-segundo commit
-
-terceito commit
+linha nova
